@@ -1,0 +1,27 @@
+Type,Port,Turnaround,Shorex,Region,Shown on Map,Closest Port on Map
+INLAND PORTS,Poplar Port,Yes,Yes,North,Yes,
+INLAND PORTS,Ginkgo Port,No,Yes,North,No,Poplar Port
+INLAND PORTS,Walnut Port,No,Yes,North,Yes,
+INLAND PORTS,Yew Port,No,Yes,North,No,Walnut Port
+INLAND PORTS,Ash Port,No,Yes,North East,Yes,
+INLAND PORTS,Chestnut Port,No,Yes,North East,No,Ash Port
+INLAND PORTS,Beech Port,No,Yes,North East,Yes,
+INLAND PORTS,Acacia Port,No,Yes,East,No,Beech Port
+INLAND PORTS,Oak Port,Yes,Yes,East,Yes,
+INLAND PORTS,Eucalyptus Port,No,Yes,East,No,Oak Port
+INLAND PORTS,Elm Port,Yes,Yes,East,Yes,
+INLAND PORTS,Olive Port,No,Yes,South East,No,Elm Port
+INLAND PORTS,Willow Port,No,Yes,South East,Yes,
+INLAND PORTS,Sequoia Port,No,Yes,South East,No,Willow Port
+INLAND PORTS,Sycamore Port,No,Yes,South East,Yes,
+INLAND PORTS,Cedar Port,No,Yes,South,No,Redwood Port
+INLAND PORTS,Hemlock Port,No,Yes,South,No,Redwood Port
+INLAND PORTS,Redwood Port,No,Yes,South,Yes,
+INLAND PORTS,Spruce Port,No,Yes,South West,No,Maple Port
+INLAND PORTS,Maple Port,Yes,Yes,South West,Yes,
+INLAND PORTS,Birch Port,No,Yes,West,Yes,
+INLAND PORTS,Dogwood Port,No,Yes,West,No,Magnolia Port
+INLAND PORTS,Magnolia Port,Yes,Yes,West,Yes,
+INLAND PORTS,Cypress Port,No,Yes,North West,Yes,
+INLAND PORTS,Bamboo Port,No,Yes,North West,No,
+INLAND PORTS,Alder Port,No,Yes,North West,Yes,
